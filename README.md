@@ -9,7 +9,7 @@ Repositório desenvolvido para fins educativos, com a disponibilização de mate
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 
-<h1>Objetivo</h1>
+#Objetivo
 Introduzir ao versionamento de código com Git e GitHub.
 
 Ferramentas
@@ -67,7 +67,7 @@ Percurso
   <tfoot></tfoot>
 </table>
 
-<h1>Instrutora</h1>
+#Instrutora
 <table>
   <tr>
     <td>
@@ -83,7 +83,7 @@ Percurso
   </tr>
 </table>
 
-Referências
+#Referências
 - [GIT. Documentation](https://git-scm.com/doc)
 - [GITHUB. Documentation](https://docs.github.com/)
 - [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
