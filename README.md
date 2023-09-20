@@ -17,7 +17,7 @@ Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
 
-#Percurso
+## Percurso
 <table>
   <thead>
     <tr align="left">
@@ -67,7 +67,7 @@ Ferramentas
   <tfoot></tfoot>
 </table>
 
-#Instrutora
+## Instrutora
 <table>
   <tr>
     <td>
@@ -83,7 +83,7 @@ Ferramentas
   </tr>
 </table>
 
-#Referências
+## Referências
 - [GIT. Documentation](https://git-scm.com/doc)
 - [GITHUB. Documentation](https://docs.github.com/)
 - [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
